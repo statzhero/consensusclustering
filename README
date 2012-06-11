@@ -6,5 +6,5 @@ http://cran.r-project.org/web/packages/clusterCons/index.html
 
 Original author and maintainer is Dr. T. Ian Simpson <ian.simpson at ed.ac.uk>.
 
-The code impements a much faster algorithm for calculating the connectivity matrix.
+The code implements a much faster algorithm for calculating the connectivity matrix.
 Moreover, a progress bar gives the user visual feedback.
